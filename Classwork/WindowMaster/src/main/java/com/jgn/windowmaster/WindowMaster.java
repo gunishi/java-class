@@ -31,7 +31,7 @@ public class WindowMaster {
         glassCost = 3.5f;
         trimCost = 2.25f;
         
-        // declare and initialize the Scanner
+        // declare and initialise the Scanner
         Scanner myScanner = new Scanner(System.in);
 
         // get input from the user
